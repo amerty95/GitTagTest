@@ -8,8 +8,8 @@ android {
         applicationId "com.example.zorlu.gittagtest"
         minSdkVersion 19
         targetSdkVersion 24
-        versionCode 1
-        versionName "1.0"
+        versionCode 8
+        versionName "8.0"
     }
     buildTypes {
         release {
