@@ -2,60 +2,60 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\ZORLU\AndroidStudioProjects\GitTagTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
-        <dex dex="C:\Users\ZORLU\AndroidStudioProjects\GitTagTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_ce259fdeec9e00ce66a8d7c27a972d6943845e4a\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ZORLU\AndroidStudioProjects\GitTagTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
-        <dex dex="C:\Users\ZORLU\AndroidStudioProjects\GitTagTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_827d7b4cea0810201dd561527310855e9545019b\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ZORLU\AndroidStudioProjects\GitTagTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
-        <dex dex="C:\Users\ZORLU\AndroidStudioProjects\GitTagTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_e5e10734e57ca1ca52f12291e883296071779655\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ZORLU\AndroidStudioProjects\GitTagTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="06370e23c879f1ceb7ce2261248fea0dfb78cf87">
-        <dex dex="C:\Users\ZORLU\AndroidStudioProjects\GitTagTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_23e9d2602e5f4f8bc508912dacf61c5eaf59bcb0\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ZORLU\AndroidStudioProjects\GitTagTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="ba82e7428b850054345ff4e0b148cb6b58b84c39">
-        <dex dex="C:\Users\ZORLU\AndroidStudioProjects\GitTagTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b08fb622bd8e1e133b9e566592ac735e27a3b500\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ZORLU\AndroidStudioProjects\GitTagTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jar="C:\Users\ZORLU\AndroidStudioProjects\MultiProject\GitTagTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
         jumboMode="true"
         revision="24.0.0"
         sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
-        <dex dex="C:\Users\ZORLU\AndroidStudioProjects\GitTagTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_8a269367e454b4dab0e597811438d653278a8933\classes.dex" />
+        <dex dex="C:\Users\ZORLU\AndroidStudioProjects\MultiProject\GitTagTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_057a59fd68439973b32c89182fd9615d3f5bcd66\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ZORLU\AndroidStudioProjects\MultiProject\GitTagTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\ZORLU\AndroidStudioProjects\MultiProject\GitTagTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_78a8f884429327e7bd664fe1d30ffe89d5bc7ddf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ZORLU\AndroidStudioProjects\MultiProject\GitTagTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\ZORLU\AndroidStudioProjects\MultiProject\GitTagTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_9ddca702b4011a45a44fa1edbbcc60ccfa8f7b59\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ZORLU\AndroidStudioProjects\MultiProject\GitTagTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\ZORLU\AndroidStudioProjects\MultiProject\GitTagTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_e4a9ce372169cb97d634c7c9a16366d619bed457\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ZORLU\AndroidStudioProjects\MultiProject\GitTagTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="b37c1b934a3509c9dcdd6234ffe8ed04dc1eaeb0">
+        <dex dex="C:\Users\ZORLU\AndroidStudioProjects\MultiProject\GitTagTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0aaaa51fa3ab58cb2d37f168eba029c071f98bf8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ZORLU\AndroidStudioProjects\MultiProject\GitTagTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ce15f16f28f53ff893006b5a3d9e997f2e3f260e">
+        <dex dex="C:\Users\ZORLU\AndroidStudioProjects\MultiProject\GitTagTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_605f39b8a79d25bea208da47b2f0db0e56837ba0\classes.dex" />
     </item>
     <item
         jar="C:\Users\ZORLU\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
         jumboMode="true"
         revision="24.0.0"
         sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
-        <dex dex="C:\Users\ZORLU\AndroidStudioProjects\GitTagTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_94c680fd19537448637c997b2b2b48ec2abe71bb\classes.dex" />
+        <dex dex="C:\Users\ZORLU\AndroidStudioProjects\MultiProject\GitTagTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_94c680fd19537448637c997b2b2b48ec2abe71bb\classes.dex" />
     </item>
     <item
-        jar="C:\Users\ZORLU\AndroidStudioProjects\GitTagTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jar="C:\Users\ZORLU\AndroidStudioProjects\MultiProject\GitTagTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
-        <dex dex="C:\Users\ZORLU\AndroidStudioProjects\GitTagTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_b72da389eefefc012b1a92d73b677c1aee8e6c7c\classes.dex" />
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\ZORLU\AndroidStudioProjects\MultiProject\GitTagTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_84aad3ddf2adb6753b0de4c18a348a4a23f28a5f\classes.dex" />
     </item>
 
 </items>
